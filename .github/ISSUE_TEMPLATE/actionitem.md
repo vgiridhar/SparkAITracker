@@ -1,10 +1,10 @@
 ---
 name: ActionItem
 about: Assigning AI to team member
-title: "[AI] - "
+title: "[AI]"
 labels: ActionItem
 assignees: ''
 
 ---
 
-
+>### Target Date:
